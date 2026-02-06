@@ -42,3 +42,5 @@
 ## 免责声明
 
 请遵守网站使用条款与相关法律法规，本工具仅用于提升个人输入体验与可访问性。
+##下载链接
+http://cidaiji.com/api/cloud-files/shared/7042f19bb925b75bdc3c721c603532f3
